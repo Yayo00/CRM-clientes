@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas",
+      "empresa": "fds",
+      "email": "yazkt@hotmail.com",
+      "telefono": "7757514858",
+      "notas": "cvcv",
+      "id": 3
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "Zass",
+      "email": "yairvelascor05@gmail.com",
+      "telefono": "7757514858",
+      "notas": "dfgfg",
+      "id": 4
+    },
+    {
+      "nombre": "René",
+      "empresa": "SQV",
+      "email": "rene@dominio.com",
+      "telefono": "56765432",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
